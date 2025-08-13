@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+*.log
+*.tmp
+
+# --- Entornos virtuales ---
+venv/
+.venv/
+ENV/
+env/
+contabot/
+
+# --- VSCode / IDEs ---
+.vscode/
+
+# --- Archivos de entorno ---
+.env
+.env.*
+
+# --- Archivos de comandos ---
+BITCON.txt
+contabot.log
+filters.yaml
+licencia.dat
+pyinstaller.md
+config.yaml
+
+# --- Carpeta de instaladores ---
+dist/
+build/
